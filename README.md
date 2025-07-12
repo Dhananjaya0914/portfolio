@@ -4,7 +4,7 @@
 <h1 align="center">
  <img src="C:\Users\MSI\Pictures\linkdin banner.png"/>
 </h1>
-*/
+
 <h1 align="center">Hi 👋, I'm Dhananjaya</h1>
 <h3 align="center">Undergraduate Student at Eastern University, Sri Lanka</h3>
 
